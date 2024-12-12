@@ -1,5 +1,7 @@
 # Alguns gráficos obtidos
 
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_19_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_19.png" />
 <img src="https://github.com/bruno-said/r-language/blob/main/img/23.svg" />
 <img src="https://github.com/bruno-said/r-language/blob/main/img/27.svg" />
 <img src="https://github.com/bruno-said/r-language/blob/main/img/28.svg" />
