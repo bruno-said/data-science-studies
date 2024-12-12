@@ -1,5 +1,23 @@
 # Alguns gráficos obtidos
 
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_28_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_28.png" />
+
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_27_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_27.png" />
+
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_26_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_26.png" />
+
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_25_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_25.png" />
+
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_24_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_24.png" />
+
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_23_output.png" />
+<img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_23.png" />
+
 <img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_22_output.png" />
 <img src="https://github.com/bruno-said/r-language/blob/main/img/2_2_22.png" />
 
