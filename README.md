@@ -1,4 +1,4 @@
-# Alguns gráficos obtidos ultilizadom R
+# Alguns gráficos obtidos
 
 <img src="https://github.com/bruno-said/r-language/blob/main/img/23.svg" />
 <img src="https://github.com/bruno-said/r-language/blob/main/img/27.svg" />
