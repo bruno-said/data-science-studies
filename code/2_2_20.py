@@ -22,7 +22,7 @@ mpl.rcParams.update({
 })
 
 plt.scatter( x, y )
-plt.title( 'Verificando o limite de f(x) quando x tende a 3' )
+plt.title( 'Verificando o limite de f(x) quando x tende a -3' )
 plt.ylabel( 'f(x)' )
 plt.xlabel( 'x' )
 plt.grid()
